@@ -13,6 +13,6 @@ This is an Event Finder application that allows you to search for your city of i
 - Firebase
 
 ## Website: ##
- https://kaylagold.github.io/PROJECT-1/
+https://clewis1337.github.io/EventFinder-PLUS/
 
 
